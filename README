@@ -1,2 +1,7 @@
-Delaynay triangulation algorithm, a plugin for ImageJ
+Delaunay triangulation plugin for ImageJ
 by Hiro Kai, 2012.
+
+Algorithm is written by L. Paul Chew
+http://www.cs.cornell.edu/info/people/chew/Delaunay.html
+
+
